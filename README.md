@@ -1,41 +1,36 @@
 # Nguyen Minh Quang
 
-📍 Thu Duc City, Ho Chi Minh City, Vietnam  
-📞 +84 935 601 729  
-✉️ [quangforwork1203@gmail.com](mailto:quangforwork1203@gmail.com)  
-🐙 [github.com/DOCUTEE](https://github.com/DOCUTEE)  
-🔗 [linkedin.com/in/quang-data](https://linkedin.com/in/quang-data)  
+Hello! I’m Nguyen Minh Quang, a Data Engineer passionate about building scalable data pipelines and delivering actionable insights from large datasets.
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DOCUTEE&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DOCUTEE&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-stats.vercel.app/api/wakatime?username=DOCUTEE&theme=tokyonight&layout=compact)
 
 ---
 
-## 🎓 Education
+## Education
 
 **HCM University of Technology and Education (HCMUTE)**  
-_Bachelor of Engineering in Data Engineering_ (2022 – 2026 expected)  
+Bachelor of Engineering in Data Engineering (2022 – 2026 expected)  
 GPA: 2.93 / 4
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-- **3rd Prize** – 33rd Vietnam Student Olympiad in Informatics (OLP’24)  
-- **Honorable Mention** – ICPC Asia Pacific Programming Contest 2022 & 2023  
-- **Consolation Prize** – ICPC 2022 Vietnam National Contest (Non-IT)  
-- **3rd Prize** – Central & Central Highlands Olympiad of Informatics (2021)  
-- Solved **900+ problems** on [Codeforces](https://codeforces.com/profile/DOCUTEE) using C++  
-- **LeetCode SQL 50 Badge** – Completed 50 essential SQL problems (basic → intermediate)  
+- 3rd Prize – 33rd Vietnam Student Olympiad in Informatics (OLP’24)  
+- Honorable Mention – ICPC Asia Pacific Programming Contest 2022 & 2023  
+- Consolation Prize – ICPC 2022 Vietnam National Contest (Non-IT)  
+- 3rd Prize – Central & Central Highlands Olympiad of Informatics (2021)  
+- Solved 900+ problems on [Codeforces](https://codeforces.com/profile/DOCUTEE) using C++  
+- LeetCode SQL 50 Badge – Completed 50 essential SQL problems (basic → intermediate)  
 
 ---
 
-## ⚙️ Skills
+## Skills
 
 - **Languages:** C++, SQL, Python, Java  
 - **Databases:** SQL Server, MySQL, MongoDB  
@@ -49,67 +44,55 @@ GPA: 2.93 / 4
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### SteamMind – Steam Reviews Analysis Platform  
-**Role:** Data Engineer | **Team:** 2  
-- Built a lakehouse-style platform ingesting, transforming and analyzing **100M+** Steam reviews.  
-- **Technologies:** Python, Spark, dbt, Hive Metastore, HDFS, Iceberg, Airflow, Trino, Superset, Docker  
-- **Responsibilities:**  
-  - Scheduled daily batch jobs with date-partitioning for efficient queries.  
-  - Ingested structured & semi-structured data into Bronze layers with PySpark.  
-  - Implemented data cleaning & transformation with Spark SQL and dbt models.  
-  - Orchestrated pipelines via Apache Airflow; managed schema evolution & upserts in Iceberg.  
-  - Deployed a modular Docker Compose stack for reproducible development.  
+**Role:** Data Engineer | Team of 2  
+- Built a lakehouse platform ingesting, transforming, and analyzing 100M+ Steam reviews.  
+- Technologies: Python, Spark, dbt, Hive Metastore, HDFS, Iceberg, Airflow, Trino, Superset, Docker  
+- Responsibilities included partitioned batch processing, schema evolution, data cleaning, and orchestration with Airflow.  
 - [Source](https://github.com/DOCUTEE/steam_analysis)
 
-### CFBIGDATA – Codeforces Contest Submission Analytics  
-**Role:** Data Engineer | **Team:** 5  
-- Real-time ETL pipeline for live contest data + historical trend analysis.  
-- **Technologies:** Python, Spark, Kafka, Delta Lake, MinIO, Grafana, Superset, Airflow, Docker  
-- **Responsibilities:**  
-  - Designed ELT workflows for lakehouse ingestion and transformation.  
-  - Ingested & validated streaming JSON with PySpark; wrote gold tables to MinIO.  
-  - Synced data from Delta Lake to ClickHouse for sub-minute dashboard refresh.  
-  - Automated orchestration in Airflow; maintained reproducible Docker Compose setup.  
+### CFBIGDATA – Codeforces Submission Analytics  
+**Role:** Data Engineer | Team of 5  
+- Real-time ETL pipeline for live contest data and historical trend analysis.  
+- Technologies: Python, Spark, Kafka, Delta Lake, MinIO, Grafana, Superset, Airflow, Docker  
+- Designed ELT workflows, validated streaming JSON, and powered sub-minute dashboards via ClickHouse.  
 - [Source](https://github.com/DOCUTEE/CFBIGDATA)
 
-### MacScan – MacBook Pro 14” M1 Price Analysis on Chợ Tốt  
-**Role:** Data Engineer | **Team:** 1  
-- Scraped & analyzed 2nd-hand MacBook Pro listings to surface price trends & configurations.  
-- **Technologies:** Python, Selenium, BeautifulSoup, Matplotlib, Seaborn  
-- **Responsibilities:**  
-  - Automated scraping of 50 result pages; parsed HTML with BeautifulSoup.  
-  - Cleaned & normalized pricing; extracted RAM/ROM features via regex.  
-  - Engineered features (time since posting, specs) for downstream analytics.  
-  - Visualized configuration distributions & price dispersion.  
+### MacScan – MacBook Pro 14” M1 Price Analysis  
+**Role:** Data Engineer | Solo  
+- Scraped and analyzed used MacBook Pro listings to surface pricing and configuration trends.  
+- Technologies: Python, Selenium, BeautifulSoup, Matplotlib, Seaborn  
+- Automated scraping of 50 pages, feature engineering, and data visualization.  
 - [Source](https://github.com/DOCUTEE/MPro_14_M1_Analysis)
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - AWS Academy Graduate – Cloud Developing  
-  [![badge](https://images.credly.com/size/340x340/images/9e24db92-6761-4803-9885-d003356bdf08.png)](https://www.credly.com/badges/9e24db92-6761-4803-9885-d003356bdf08)
 - AWS Academy Graduate – Cloud Web Application Builder  
-  [![badge](https://images.credly.com/size/340x340/images/bc931f51-ccca-43d2-8d47-8132e4935041.png)](https://www.credly.com/badges/bc931f51-ccca-43d2-8d47-8132e4935041/public_url)
 - AWS Academy Graduate – Cloud Foundations  
-  [![badge](https://images.credly.com/size/340x340/images/380e6bea-52c0-46a0-9198-eb46daf72c7a.png)](https://www.credly.com/badges/380e6bea-52c0-46a0-9198-eb46daf72c7a/public_url)
 
 ---
 
-## 🤝 Extracurricular Activities
+## Extracurricular Activities
 
-### HCMUTE – Student Mentor & Instructor  
-- Mentored **100+** students over 8 sessions in Programming Techniques (2024–2025).  
-- Designed & delivered lessons on data structures, algorithms & complexity for final-exam prep.
+**Student Mentor & Instructor, HCMUTE**  
+- Mentored 100+ students through 8 programming sessions (2024–2025).  
+- Developed lessons on data structures, algorithms, and problem-solving strategies.  
 
-### Code Mely – Algorithm Team Leader  
-- Led a team of 10 to run [Mely Beginner & Educational Contests](https://codeforces.com/group/J9XVs25cLt/contests) (150+ participants).  
-- Supported Codeforces Rounds [963](https://codeforces.com/blog/entry/132137) & [983](https://codeforces.com/blog/entry/135381) (30K+ participants each).  
-- Built C++ test generators, validators & checkers; contributed problems to [Hackerrank](https://www.hackerrank.com/300-bai-code-thieu-nhi).  
-- Shared weekly tutorials on data structures & algorithms within the community.
+**Algorithm Team Leader, Code Mely**  
+- Led a team of 10 to organize beginner contests with 150+ participants.  
+- Supported Codeforces Rounds 963 & 983 (30K+ participants each).  
+- Built test generators and checkers in C++; contributed problems to Hackerrank.  
 
 ---
 
-> “Data is the new oil, but it’s raw and needs to be refined to be valuable.”  
+## Contact
+
+**Email:** quangforwork1203@gmail.com  
+**Phone:** +84 935 601 729  
+**GitHub:** [DOCUTEE](https://github.com/DOCUTEE)  
+**LinkedIn:** [quang-data](https://linkedin.com/in/quang-data)  
