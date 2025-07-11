@@ -1,6 +1,4 @@
 # Nguyen Minh Quang
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/3aab6724-9b95-4df7-984a-55e89283d68b" />
-
 Hello! I’m Nguyen Minh Quang, a Data Engineer passionate about building scalable data pipelines and delivering actionable insights from large datasets.
 
 ---
