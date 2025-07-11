@@ -8,6 +8,14 @@
 
 ---
 
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DOCUTEE&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DOCUTEE&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-stats.vercel.app/api/wakatime?username=DOCUTEE&theme=tokyonight&layout=compact)
+
+---
+
 ## 🎓 Education
 
 **HCM University of Technology and Education (HCMUTE)**  
